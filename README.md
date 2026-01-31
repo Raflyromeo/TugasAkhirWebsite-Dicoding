@@ -154,4 +154,3 @@ Website ini dibuat sebagai _submission_ Dicoding dengan fokus pada:
 
 © 2026 Muhammad Rafly Romeo Nasution — Portfolio Web Developer
 Dibuat sebagai bagian dari proses belajar dan pengembangan diri.
-testtt 2
